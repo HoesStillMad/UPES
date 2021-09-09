@@ -1,2 +1,2 @@
 # UPES
-Contains all my college my work 
+Contains all my college work 
